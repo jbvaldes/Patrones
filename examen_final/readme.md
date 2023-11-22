@@ -1,4 +1,4 @@
-# Evaluación Final - Iplacex Patrones de Diseño
+# Examen - Patrones de Diseño
 
 _Se realiza un sistema de gestión que consume 3 APIs con datos de otros sistemas_
 
